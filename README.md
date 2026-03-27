@@ -1,4 +1,4 @@
-# Harsh - Professional Portfolio Website
+# Kshitiz - Professional Portfolio Website
 
 A modern, high-end digital portfolio website built with React.js, Tailwind CSS, and Framer Motion. Features a sleek dark mode design with smooth animations and fully responsive layout.
 
